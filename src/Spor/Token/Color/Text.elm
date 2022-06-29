@@ -2,7 +2,7 @@ module Spor.Token.Color.Text exposing (Text, toCss, darkGrey, white, darkTeal)
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:43:28 GMT
+    Generated on Wed, 29 Jun 2022 14:57:41 GMT
 -}
 
 {-| @docs Text, toCss, darkGrey, white, darkTeal -}

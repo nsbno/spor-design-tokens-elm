@@ -2,7 +2,7 @@ module Spor.Token.Font.Style exposing (Style, toString, xxlFontFamily, xxlLineHe
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:43:28 GMT
+    Generated on Wed, 29 Jun 2022 14:57:41 GMT
 -}
 
 {-| @docs Style, toString, xxlFontFamily, xxlLineHeight, xxlFontSizeMobile, xxlFontSizeDesktop, xlDisplayFontFamily, xlDisplayLineHeight, xlDisplayFontSizeMobile, xlDisplayFontSizeDesktop, xlSansFontFamily, xlSansLineHeight, xlSansFontSizeMobile, xlSansFontSizeDesktop, lgFontFamily, lgLineHeight, lgFontSizeMobile, lgFontSizeDesktop, mdFontFamily, mdLineHeight, mdFontSizeMobile, mdFontSizeDesktop, smFontFamily, smLineHeight, smFontSizeMobile, smFontSizeDesktop, xsFontFamily, xsLineHeight, xsFontSizeMobile, xsFontSizeDesktop -}

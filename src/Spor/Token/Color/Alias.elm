@@ -2,7 +2,7 @@ module Spor.Token.Color.Alias exposing (Alias, toCss, lightGrey, platinum, silve
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:43:28 GMT
+    Generated on Wed, 29 Jun 2022 14:57:41 GMT
 -}
 
 {-| @docs Alias, toCss, lightGrey, platinum, silver, steel, osloGrey, dimGrey, darkGrey, seaFoam, opal, river, celadon, pine, darkTeal, night, mint, seaMist, coralGreen, blueGreen, azure, greenHaze, primaryGreen, icyBlue, lightBlue, cloudy, sky, glacier, ocean, darkBlue, cornsilk, blonde, primrose, sunshine, banana, burntYellow, golden, bisque, champagne, rajah, saffron, pumpkin, chocolate, wood, lightRed, brightRed, white, black -}

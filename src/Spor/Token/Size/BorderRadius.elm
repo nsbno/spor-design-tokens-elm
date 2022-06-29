@@ -2,7 +2,7 @@ module Spor.Token.Size.BorderRadius exposing (BorderRadius, toCss, none, xs, sm,
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:43:28 GMT
+    Generated on Wed, 29 Jun 2022 14:57:41 GMT
 -}
 
 {-| @docs BorderRadius, toCss, none, xs, sm, md, lg, xl, i2xl -}

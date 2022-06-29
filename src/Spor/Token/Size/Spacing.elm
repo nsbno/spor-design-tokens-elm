@@ -2,7 +2,7 @@ module Spor.Token.Size.Spacing exposing (Spacing, toCss, px3, px6, px9, px12, px
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:43:28 GMT
+    Generated on Wed, 29 Jun 2022 14:57:41 GMT
 -}
 
 {-| @docs Spacing, toCss, px3, px6, px9, px12, px18, px24, px30, px36, px42, px54, px72, px90, px120, px180, i3xs, i2xs, xs, sm, md, lg, xl, i2xl, i3xl, i4xl, i5xl, i6xl, i7xl, i8xl -}
