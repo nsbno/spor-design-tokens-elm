@@ -2,7 +2,7 @@ module Spor.Token.Asset.Font exposing (Font, toString, vySansLightName, vySansLi
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Font, toString, vySansLightName, vySansLightTtf, vySansLightEot, vySansLightOtf, vySansLightWoff, vySansLightWoff2, vySansLightItalicName, vySansLightItalicTtf, vySansLightItalicEot, vySansLightItalicOtf, vySansLightItalicWoff, vySansLightItalicWoff2, vySansMediumName, vySansMediumTtf, vySansMediumEot, vySansMediumOtf, vySansMediumWoff, vySansMediumWoff2, vySansMediumItalicName, vySansMediumItalicTtf, vySansMediumItalicEot, vySansMediumItalicOtf, vySansMediumItalicWoff, vySansMediumItalicWoff2, vySansBoldName, vySansBoldTtf, vySansBoldEot, vySansBoldOtf, vySansBoldWoff, vySansBoldWoff2, vySansBoldItalicName, vySansBoldItalicTtf, vySansBoldItalicEot, vySansBoldItalicOtf, vySansBoldItalicWoff, vySansBoldItalicWoff2, vyDisplayName, vyDisplayTtf, vyDisplayEot, vyDisplayOtf, vyDisplayWoff, vyDisplayWoff2, robotoMonoMediumName, robotoMonoMediumTtf, robotoMonoMediumItalicName, robotoMonoMediumItalicTtf -}

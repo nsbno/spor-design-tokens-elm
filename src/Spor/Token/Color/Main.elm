@@ -2,7 +2,7 @@ module Spor.Token.Color.Main exposing (Main, toCss, darkTeal, primaryGreen, gree
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Main, toCss, darkTeal, primaryGreen, greenHaze, coralGreen, mint, white, darkGrey, osloGrey, platinum, lightGrey -}

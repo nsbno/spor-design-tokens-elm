@@ -2,7 +2,7 @@ module Spor.Token.Depth.ZIndex exposing (ZIndex, toInt, hide, base, docked, drop
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs ZIndex, toInt, hide, base, docked, dropdown, sticky, banner, overlay, modal, popover, skipLink, toast, tooltip -}

@@ -2,7 +2,7 @@ module Spor.Token.Color.Product exposing (Product, toCss, ocean, wood)
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Product, toCss, ocean, wood -}

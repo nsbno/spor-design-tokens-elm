@@ -2,7 +2,7 @@ module Spor.Token.Font.Family exposing (Family, toString, heading, body, monospa
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Family, toString, heading, body, monospace -}

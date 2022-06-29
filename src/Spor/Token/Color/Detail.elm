@@ -2,7 +2,7 @@ module Spor.Token.Color.Detail exposing (Detail, toCss, darkBlue, ocean, golden,
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Detail, toCss, darkBlue, ocean, golden, burntYellow, wood, chocolate, pumpkin -}

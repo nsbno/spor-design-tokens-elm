@@ -2,7 +2,7 @@ module Spor.Token.Color.Error exposing (Error, toCss, brightRed, lightRed)
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Error, toCss, brightRed, lightRed -}

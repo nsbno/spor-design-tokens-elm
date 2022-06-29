@@ -2,7 +2,7 @@ module Spor.Token.Size.LineHeight exposing (LineHeight, toFloat, heading, body)
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs LineHeight, toFloat, heading, body -}

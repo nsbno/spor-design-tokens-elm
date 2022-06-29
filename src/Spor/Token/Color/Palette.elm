@@ -2,7 +2,7 @@ module Spor.Token.Color.Palette exposing (Palette, toCss, grey50, grey100, grey2
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Palette, toCss, grey50, grey100, grey200, grey300, grey400, grey500, grey600, teal50, teal100, teal200, teal300, teal400, teal500, teal600, green50, green100, green200, green300, green400, green500, green600, blue50, blue100, blue200, blue300, blue400, blue500, blue600, yellow50, yellow100, yellow200, yellow300, yellow400, yellow500, yellow600, orange50, orange100, orange200, orange300, orange400, orange500, orange600, red50, red600, white, black, whiteAlpha100, whiteAlpha200, whiteAlpha300, whiteAlpha400, whiteAlpha500, whiteAlpha600, whiteAlpha700, whiteAlpha800, whiteAlpha900, blackAlpha100, blackAlpha200, blackAlpha300, blackAlpha400, blackAlpha500, blackAlpha600, blackAlpha700, blackAlpha800, blackAlpha900 -}

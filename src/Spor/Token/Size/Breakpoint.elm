@@ -2,7 +2,7 @@ module Spor.Token.Size.Breakpoint exposing (Breakpoint, toCss, sm, md, lg)
 
 {-
     Do not edit directly
-    Generated on Wed, 29 Jun 2022 14:57:41 GMT
+    Generated on Wed, 29 Jun 2022 15:02:50 GMT
 -}
 
 {-| @docs Breakpoint, toCss, sm, md, lg -}
