@@ -27,6 +27,7 @@ cp -R spor/packages/spor-design-tokens/elm/ .
 
 pushd spor
 
+git clean -f
 git reset --hard
 
 popd
