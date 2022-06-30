@@ -7,7 +7,7 @@ module Spor.Token.Color.Detail exposing (Detail, toCss, darkBlue, ocean, golden,
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Detail value.
 -}
 type Detail =
     Detail Css.Color

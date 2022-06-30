@@ -6,7 +6,7 @@ module Spor.Token.Time.Transition exposing (Transition, toString, slow, medium, 
 -}
 
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Transition value.
 -}
 type Transition =
     Transition String

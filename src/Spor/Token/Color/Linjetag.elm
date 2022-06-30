@@ -7,7 +7,7 @@ module Spor.Token.Color.Linjetag exposing (Linjetag, toCss, lokaltog, lokaltogLi
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Linjetag value.
 -}
 type Linjetag =
     Linjetag Css.Color

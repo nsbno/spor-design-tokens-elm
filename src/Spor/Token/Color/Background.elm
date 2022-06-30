@@ -7,7 +7,7 @@ module Spor.Token.Color.Background exposing (Background, toCss, white, lightGrey
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Background value.
 -}
 type Background =
     Background Css.Color

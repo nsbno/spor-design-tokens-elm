@@ -7,7 +7,7 @@ module Spor.Token.Size.Stroke exposing (Stroke, toCss, sm, md, lg)
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Stroke value.
 -}
 type Stroke =
     Stroke Css.Px

@@ -7,7 +7,7 @@ module Spor.Token.Size.Spacing exposing (Spacing, toCss, px3, px6, px9, px12, px
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Spacing value.
 -}
 type Spacing =
     Spacing Css.Px

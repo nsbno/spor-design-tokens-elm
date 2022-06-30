@@ -7,7 +7,7 @@ module Spor.Token.Color.Palette exposing (Palette, toCss, grey50, grey100, grey2
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Palette value.
 -}
 type Palette =
     Palette Css.Color

@@ -7,7 +7,7 @@ module Spor.Token.Depth.Shadow exposing (Shadow, toCss, sm, md, lg)
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Shadow value.
 -}
 type Shadow =
     Shadow Css.Style

@@ -6,7 +6,7 @@ module Spor.Token.Size.LineHeight exposing (LineHeight, toFloat, heading, body)
 -}
 
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a LineHeight value.
 -}
 type LineHeight =
     LineHeight Float

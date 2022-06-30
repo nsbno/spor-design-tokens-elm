@@ -6,7 +6,7 @@ module Spor.Token.Depth.ZIndex exposing (ZIndex, toInt, hide, base, docked, drop
 -}
 
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a ZIndex value.
 -}
 type ZIndex =
     ZIndex Int

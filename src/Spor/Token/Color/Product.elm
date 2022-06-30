@@ -7,7 +7,7 @@ module Spor.Token.Color.Product exposing (Product, toCss, ocean, wood)
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Product value.
 -}
 type Product =
     Product Css.Color

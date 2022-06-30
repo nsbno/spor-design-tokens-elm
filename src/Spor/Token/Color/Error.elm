@@ -7,7 +7,7 @@ module Spor.Token.Color.Error exposing (Error, toCss, brightRed, lightRed)
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Error value.
 -}
 type Error =
     Error Css.Color

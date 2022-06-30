@@ -7,7 +7,7 @@ module Spor.Token.Size.BorderRadius exposing (BorderRadius, toCss, none, xs, sm,
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a BorderRadius value.
 -}
 type BorderRadius =
     BorderRadius Css.Px

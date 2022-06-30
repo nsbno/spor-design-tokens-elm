@@ -7,7 +7,7 @@ module Spor.Token.Color.Main exposing (Main, toCss, darkTeal, primaryGreen, gree
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Main value.
 -}
 type Main =
     Main Css.Color

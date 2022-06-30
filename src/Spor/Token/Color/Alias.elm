@@ -7,7 +7,7 @@ module Spor.Token.Color.Alias exposing (Alias, toCss, lightGrey, platinum, silve
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Alias value.
 -}
 type Alias =
     Alias Css.Color

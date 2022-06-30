@@ -7,7 +7,7 @@ module Spor.Token.Color.Text exposing (Text, toCss, darkGrey, white, darkTeal)
 
 import Css
 
-{-| An opaque type representing a ${this.name} value.
+{-| An opaque type representing a Text value.
 -}
 type Text =
     Text Css.Color
