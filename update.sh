@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -e
 
+# Clean current repo
+
+rm -r src || true
+
 # Initialize root repository
 
 pushd spor
@@ -14,6 +18,7 @@ popd
 pushd spor/packages/spor-design-tokens
 
 npm install
+rm -r elm/src/
 npm run build
 
 popd
@@ -27,7 +32,6 @@ cp -R spor/packages/spor-design-tokens/elm/ .
 
 pushd spor
 
-git clean -f
 git reset --hard
 
 popd
