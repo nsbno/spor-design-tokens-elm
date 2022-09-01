@@ -20,11 +20,10 @@ popd
 pushd spor/packages/spor-design-tokens
 
 npm install
-rm -r elm/src/
+rm -r elm/src/ || true
 npm run build
 
 popd
-
 
 # Copy generated elm package to root
 
@@ -37,5 +36,6 @@ mv elm2.json elm.json
 pushd spor
 
 git reset --hard
+git clean -f
 
 popd
