@@ -3,7 +3,7 @@
     "name": "nsbno/spor-design-tokens-elm",
     "summary": "Design tokens for vy elm applications",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "exposed-modules": [
         "Spor.Token.Color.Alias",
         "Spor.Token.Color.Background",
